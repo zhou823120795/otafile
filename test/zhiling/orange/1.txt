@@ -1,0 +1,538 @@
+https://api.weixin.qq.com/cgi-bin/token?grant_type=client_credential&appid=wxefe317540a339b9c&secret=427434ef4cff823944cdf213cd23661c
+
+zhiling
+upgtool -s 0 MQTT_SERVER zhiling.mqtt.athenamuses.cn:1883
+upgtool -s 0 WECHAT_RECORD_SERVER http://zhiling.wechat.athenamuses.cn/zhiling/media/upload.do?fileType=voice
+
+
+
+��ͦ�ŵ�����ϵ��
+jieting
+upgtool -s 0 MQTT_SERVER jieting.mqtt.athenamuses.cn:13108
+upgtool -s 0 WECHAT_RECORD_SERVER http://jieting.wechat.athenamuses.cn/jieting/media/upload.do?fileType=voice
+��Ʒid��50749
+
+
+
+zhiling
+upgtool -s 0 MQTT_SERVER zhiling.mqtt.athenamuses.cn:13059
+upgtool -s 0 WECHAT_RECORD_SERVER http://zhiling.wechat.athenamuses.cn/zhiling/media/upload.do?fileType=voice
+��Ʒid��48007
+
+
+mili
+upgtool -s 0 MQTT_SERVER mili.mqtt.athenamuses.cn:13106
+upgtool -s 0 WECHAT_RECORD_SERVER http://mili.wechat.athenamuses.cn/mili/media/upload.do?fileType=voice
+��Ʒid��50695
+
+
+
+zhimirui
+upgtool -s 0 MQTT_SERVER zhimirui.mqtt.athenamuses.cn:13104
+upgtool -s 0 WECHAT_RECORD_SERVER http://zhimirui.wechat.athenamuses.cn/zhimirui/media/upload.do?fileType=voice
+��Ʒid��50528
+
+
+douya
+upgtool -s 0 MQTT_SERVER douya.mqtt.athenamuses.cn:13102
+upgtool -s 0 WECHAT_RECORD_SERVER http://douya.wechat.athenamuses.cn/douya/media/upload.do?fileType=voice
+��Ʒid��50371
+
+
+doudou
+upgtool -s 0 MQTT_SERVER doudou.mqtt.athenamuses.cn:13100
+upgtool -s 0 WECHAT_RECORD_SERVER http://doudou.wechat.athenamuses.cn/doudou/media/upload.do?fileType=voice
+��Ʒid��49870
+
+
+
+milu
+upgtool -s 0 MQTT_SERVER milu.mqtt.athenamuses.cn:13097
+upgtool -s 0 WECHAT_RECORD_SERVER http://milu.wechat.athenamuses.cn/milu/media/upload.do?fileType=voice
+��Ʒid��49777
+
+
+jinshitong
+upgtool -s 0 MQTT_SERVER jinshitong.mqtt.athenamuses.cn:13095
+upgtool -s 0 WECHAT_RECORD_SERVER http://jinshitong.wechat.athenamuses.cn/jinshitong/media/upload.do?fileType=voice
+��Ʒid��49718
+
+
+weilai
+upgtool -s 0 MQTT_SERVER weilai.mqtt.athenamuses.cn:13093
+upgtool -s 0 WECHAT_RECORD_SERVER http://weilai.wechat.athenamuses.cn/weilai/media/upload.do?fileType=voice
+��Ʒid��49495
+
+
+xiaoq
+echo 3 > /sys/devices/platform/asoc-uart/en_print
+
+upgtool -s 0 MQTT_SERVER xiaoq.mqtt.athenamuses.cn:13091
+upgtool -s 0 WECHAT_RECORD_SERVER http://xiaoq.wechat.athenamuses.cn/xiaoq/media/upload.do?fileType=voice
+��Ʒid��49317
+
+
+ruiman
+echo 3 > /sys/devices/platform/asoc-uart/en_print
+
+upgtool -s 0 MQTT_SERVER ruiman.mqtt.athenamuses.cn:13087
+upgtool -s 0 WECHAT_RECORD_SERVER http://ruiman.wechat.athenamuses.cn/ruiman/media/upload.do?fileType=voice
+��Ʒid��49130
+
+
+upgtool -s 0 MQTT_SERVER tansuo.mqtt.athenamuses.cn:13089
+upgtool -s 0 WECHAT_RECORD_SERVER http://tansuo.wechat.athenamuses.cn/tansuo/media/upload.do?fileType=voice
+��Ʒid��49148
+
+xinbida
+upgtool -s 0 MQTT_SERVER xinbida.mqtt.athenamuses.cn:13085
+upgtool -s 0 WECHAT_RECORD_SERVER http://xinbida.wechat.athenamuses.cn/xinbida/media/upload.do?fileType=voice
+��Ʒid��49036
+
+
+
+beibeili
+upgtool -s 0 MQTT_SERVER beibeili.mqtt.athenamuses.cn:13083
+upgtool -s 0 WECHAT_RECORD_SERVER http://beibeili.wechat.athenamuses.cn/beibeili/media/upload.do?fileType=voice
+��Ʒid��48988
+
+
+
+zhihbb
+upgtool -s 0 MQTT_SERVER zhihbb.mqtt.athenamuses.cn:13079
+upgtool -s 0 WECHAT_RECORD_SERVER http://zhihbb.wechat.athenamuses.cn/zhihbb/media/upload.do?fileType=voice
+��Ʒid��48787
+
+
+һƷ
+upgtool -s 0 MQTT_SERVER yipin.mqtt.athenamuses.cn:13077
+upgtool -s 0 WECHAT_RECORD_SERVER http://yipin.wechat.athenamuses.cn/yipin/media/upload.do?fileType=voice
+��Ʒid��48708
+
+xiaojuxing
+upgtool -s 0 MQTT_SERVER xiaojuxing.mqtt.athenamuses.cn:13075
+upgtool -s 0 WECHAT_RECORD_SERVER http://xiaojuxing.wechat.athenamuses.cn/xiaojuxing/media/upload.do?fileType=voice
+��Ʒid��48669
+
+lebaobao
+upgtool -s 0 MQTT_SERVER lebaobao.mqtt.athenamuses.cn:13073
+upgtool -s 0 WECHAT_RECORD_SERVER http://lebaobao.wechat.athenamuses.cn/lebaobao/media/upload.do?fileType=voice
+��Ʒid��48662
+
+zhimbb
+upgtool -s 0 MQTT_SERVER zhimbb.mqtt.athenamuses.cn:13067
+upgtool -s 0 WECHAT_RECORD_SERVER http://zhimbb.wechat.athenamuses.cn/zhimbb/media/upload.do?fileType=voice
+��Ʒid��48430
+
+daling
+upgtool -s 0 MQTT_SERVER daling.mqtt.athenamuses.cn:13071
+upgtool -s 0 WECHAT_RECORD_SERVER http://daling.wechat.athenamuses.cn/daling/media/upload.do?fileType=voice
+��Ʒid��49035
+
+youqjl
+upgtool -s 0 MQTT_SERVER youqjl.mqtt.athenamuses.cn:13069
+upgtool -s 0 WECHAT_RECORD_SERVER http://youqjl.wechat.athenamuses.cn/youqjl/media/upload.do?fileType=voice
+��Ʒid��48476
+
+
+zhilian
+upgtool -s 0 MQTT_SERVER zhilian.mqtt.athenamuses.cn:13065
+upgtool -s 0 WECHAT_RECORD_SERVER http://zhilian.wechat.athenamuses.cn/zhilian/media/upload.do?fileType=voice
+��Ʒid��47893
+
+huibz
+upgtool -s 0 MQTT_SERVER huibz.mqtt.athenamuses.cn:13057
+upgtool -s 0 WECHAT_RECORD_SERVER http://huibz.wechat.athenamuses.cn/huibz/media/upload.do?fileType=voice
+��Ʒid��47666
+
+
+���С����
+xiaojl
+upgtool -s 0 MQTT_SERVER xiaojl.mqtt.athenamuses.cn:13061
+upgtool -s 0 WECHAT_RECORD_SERVER http://xiaojl.wechat.athenamuses.cn/xiaojl/media/upload.do?fileType=voice
+��Ʒid��48034
+
+midan
+echo 3 > /sys/devices/platform/asoc-uart/en_print
+
+upgtool -s 0 MQTT_SERVER midan.mqtt.athenamuses.cn:13040
+upgtool -s 0 WECHAT_RECORD_SERVER http://midan.wechat.athenamuses.cn/midan/media/upload.do?fileType=voice
+��Ʒid��43758
+
+С��
+upgtool -s 0 MQTT_SERVER xiaoyi.mqtt.athenamuses.cn:13057
+upgtool -s 0 WECHAT_RECORD_SERVER http://xiaoyi.wechat.athenamuses.cn/xiaoyi/media/upload.do?fileType=voice
+
+
+boby
+upgtool -s 0 MQTT_SERVER boby.mqtt.athenamuses.cn:13055
+upgtool -s 0 WECHAT_RECORD_SERVER http://boby.wechat.athenamuses.cn/boby/media/upload.do?fileType=voice
+
+
+
+���
+upgtool -s 0 MQTT_SERVER lew.mqtt.athenamuses.cn:13051
+upgtool -s 0 WECHAT_RECORD_SERVER http://lew.wechat.athenamuses.cn/lew/media/upload.do?fileType=voice
+
+
+С˧
+upgtool -s 0 MQTT_SERVER xiaos.mqtt.athenamuses.cn:13053
+upgtool -s 0 WECHAT_RECORD_SERVER http://xiaos.wechat.athenamuses.cn/xiaos/media/upload.do?fileType=voice
+
+��ѧ������
+upgtool -s 0 MQTT_SERVER lex.mqtt.athenamuses.cn:13055
+upgtool -s 0 WECHAT_RECORD_SERVER http://lex.wechat.athenamuses.cn/lex/media/upload.do?fileType=voice
+
+
+
+
+ͼ��
+upgtool -s 0 MQTT_SERVER turing.mqtt.athenamuses.cn:13036
+upgtool -s 0 WECHAT_RECORD_SERVER http://turing.wechat.athenamuses.cn/turing/media/upload.do?fileType=voice
+
+�п�С��
+upgtool -s 0 MQTT_SERVER zhongkxz.mqtt.athenamuses.cn:13049
+upgtool -s 0 WECHAT_RECORD_SERVER http://zhongkxz.wechat.athenamuses.cn/zhongkxz/media/upload.do?fileType=voice
+
+
+���˻�
+echo 3 > /sys/devices/platform/asoc-uart/en_print
+
+upgtool -s 0 MQTT_SERVER oldmachine.mqtt.athenamuses.cn:13047
+upgtool -s 0 WECHAT_RECORD_SERVER http://oldmachine.wechat.athenamuses.cn/oldmachine/media/upload.do?fileType=voice
+
+
+
+ui
+echo 3 > /sys/devices/platform/asoc-uart/en_print
+
+upgtool -s 0 MQTT_SERVER ui.mqtt.athenamuses.cn:13001
+upgtool -s 0 WECHAT_RECORD_SERVER http://ui.wechat.athenamuses.cn/ui/media/upload.do?fileType=voice
+tcp://ui.mqtt.athenamuses.cn:13001
+
+���ħ��
+echo 3 > /sys/devices/platform/asoc-uart/en_print
+
+upgtool -s 0 MQTT_SERVER kubmf.mqtt.athenamuses.cn:13032
+upgtool -s 0 WECHAT_RECORD_SERVER http://kubmf.wechat.athenamuses.cn/kubmf/media/upload.do?fileType=voice
+
+���ֺ���
+upgtool -s 0 MQTT_SERVER kanglhs.mqtt.athenamuses.cn:13034
+upgtool -s 0 WECHAT_RECORD_SERVER http://kanglhs.wechat.athenamuses.cn/kanglhs/media/upload.do?fileType=voice
+
+
+
+
+luni
+echo 3 > /sys/devices/platform/asoc-uart/en_print
+
+upgtool -s 0 MQTT_SERVER luni.mqtt.athenamuses.cn:13016
+upgtool -s 0 WECHAT_RECORD_SERVER http://luni.wechat.athenamuses.cn/luni/media/upload.do?fileType=voice
+
+
+
+
+zbtest
+echo 3 > /sys/devices/platform/asoc-uart/en_print
+
+upgtool -s 0 MQTT_SERVER zbtest.mqtt.athenamuses.cn:1893
+upgtool -s 0 WECHAT_RECORD_SERVER http://zbtest.wechat.athenamuses.cn/zbtest/media/upload.do?fileType=voice
+
+youze
+echo 3 > /sys/devices/platform/asoc-uart/en_print
+
+upgtool -s 0 MQTT_SERVER zbtest.mqtt.athenamuses.cn:1893
+upgtool -s 0 WECHAT_RECORD_SERVER http://zbtest.wechat.athenamuses.cn/youze/media/upload.do?fileType=voice
+
+
+
+duer
+echo 3 > /sys/devices/platform/asoc-uart/en_print
+
+upgtool -s 0 MQTT_SERVER duer.mqtt.athenamuses.cn:13030
+upgtool -s 0 WECHAT_RECORD_SERVER http://api.athenamuses.cn/duer/media/upload.do?fileType=voice
+
+
+mxt
+echo 3 > /sys/devices/platform/asoc-uart/en_print
+
+upgtool -s 0 MQTT_SERVER mxt.mqtt.athenamuses.cn:1883
+upgtool -s 0 WECHAT_RECORD_SERVER http://mxt.wechat.athenamuses.cn/mxt/media/upload.do?fileType=voice
+
+
+
+
+echo 3 > /sys/devices/platform/asoc-uart/en_print
+
+upgtool -s 0 MQTT_SERVER youze.mqtt.athenamuses.cn:1863
+upgtool -s 0 WECHAT_RECORD_SERVER http://youze.wechat.athenamuses.cn/youze/media/upload.do?fileType=voice
+
+
+zbui
+echo 3 > /sys/devices/platform/asoc-uart/en_print
+
+upgtool -s 0 MQTT_SERVER wechat.zhibankeji.com:1884
+upgtool -s 0 WECHAT_RECORD_SERVER http://wechat.zhibankeji.com/zbui/media/upload.do?fileType=voice
+
+�ǰ�Сp
+upgtool -s 0 MQTT_SERVER wxduer.zhibankeji.com:1884
+upgtool -s 0 WECHAT_RECORD_SERVER http://wxduer.zhibankeji.com/zbui/media/upload.do?fileType=voice
+
+
+tuofd
+upgtool -s 0 MQTT_SERVER tuofd.mqtt.athenamuses.cn:13020
+upgtool -s 0 WECHAT_RECORD_SERVER http://tuofd.wechat.athenamuses.cn/tuofd/media/upload.do?fileType=voice
+��Ʒid: 43927
+
+
+uitest
+upgtool -s 0 MQTT_SERVER uitest.mqtt.athenamuses.cn:13001
+
+upgtool -s 0 WECHAT_RECORD_SERVER http://uitest.wechat.athenamuses.cn/uitest/media/upload.do?fileType=voice
+
+
+
+
+jinglin
+upgtool -s 0 MQTT_SERVER jinlin.mqtt.athenamuses.cn:1843
+upgtool -s 0 WECHAT_RECORD_SERVER http://jinlin.wechat.athenamuses.cn/jinglin/media/upload.do?fileType=voice
+
+
+upgtool -s 0 MQTT_SERVER mqtt.music-box.cn:8044
+upgtool -s 0 WECHAT_RECORD_SERVER http://jinlin.wechat.athenamuses.cn/jinglin/media/upload.do?fileType=voice
+
+
+
+
+CMS-zhiban
+upgtool -s 0 MQTT_SERVER story.mqtt.athenamuses.cn:13007
+
+upgtool -s 0 WECHAT_RECORD_SERVER http://story.wechat.athenamuses.cn/story/media/upload.do?fileType=voice
+
+
+
+lanbb
+echo 3 > /sys/devices/platform/asoc-uart/en_print
+
+upgtool -s 0 MQTT_SERVER lanbb.mqtt.athenamuses.cn:13022
+upgtool -s 0 WECHAT_RECORD_SERVER http://lanbb.wechat.athenamuses.cn/lanbb/media/upload.do?fileType=voice
+��Ʒid��43742
+
+
+jwtest
+echo 3 > /sys/devices/platform/asoc-uart/en_print
+
+upgtool -s 0 MQTT_SERVER jwtest.mqtt.athenamuses.cn:13826
+upgtool -s 0 WECHAT_RECORD_SERVER http://jwtest.wechat.athenamuses.cn/jwtest/media/upload.do?fileType=voice
+
+
+shubl
+echo 3 > /sys/devices/platform/asoc-uart/en_print
+
+upgtool -s 0 MQTT_SERVER shubl.mqtt.athenamuses.cn:13038
+
+upgtool -s 0 WECHAT_RECORD_SERVER http://shubl.wechat.athenamuses.cn/shubl/media/upload.do?fileType=voice
+��Ʒid��43722
+
+zhilkc
+echo 3 > /sys/devices/platform/asoc-uart/en_print
+
+upgtool -s 0 MQTT_SERVER zhilkc.mqtt.athenamuses.cn:13028
+
+upgtool -s 0 WECHAT_RECORD_SERVER http://zhilkc.wechat.athenamuses.cn/zhilkc/media/upload.do?fileType=voice
+��Ʒid��43736
+
+
+qinzi
+echo 3 > /sys/devices/platform/asoc-uart/en_print
+
+upgtool -s 0 MQTT_SERVER qinzi.mqtt.athenamuses.cn:13015
+upgtool -s 0 WECHAT_RECORD_SERVER http://qinzi.wechat.athenamuses.cn/qinzi/media/upload.do?fileType=voice
+
+
+ttbtest
+echo 3 > /sys/devices/platform/asoc-uart/en_print
+
+upgtool -s 0 MQTT_SERVER bbttest.mqtt.athenamuses.cn:1884
+upgtool -s 0 WECHAT_RECORD_SERVER http://bbttest.wechat.athenamuses.cn/bbtbox/media/upload.do?fileType=voice
+
+
+ttbtest
+echo 3 > /sys/devices/platform/asoc-uart/en_print
+
+upgtool -s 0 MQTT_SERVER bbttest.mqtt.athenamuses.cn:1884
+upgtool -s 0 WECHAT_RECORD_SERVER http://bbttest.wechat.athenamuses.cn/bbtbox/media/upload.do?fileType=voice
+
+
+mingxtr8
+echo 3 > /sys/devices/platform/asoc-uart/en_print
+
+upgtool -s 0 MQTT_SERVER mingxtr8.mqtt.athenamuses.cn:13024
+
+upgtool -s 0 MQTT_RECORD_SERVER http://mingxtr8.wechat.athenamuses.cn/mingxtr8/media/upload.do?fileType=voice
+
+mingxtr9
+echo 3 > /sys/devices/platform/asoc-uart/en_print
+
+upgtool -s 0 MQTT_SERVER mingxtr9.mqtt.athenamuses.cn:13026
+upgtool -s 0 WECHAT_RECORD_SERVER http://mingxtr9.wechat.athenamuses.cn/mingxtr9/media/upload.do?fileType=voice
+
+
+
+
+storylight
+echo 3 > /sys/devices/platform/asoc-uart/en_print
+
+upgtool -s 0 MQTT_SERVER storylight.mqtt.athenamuses.cn:13010
+upgtool -s 0 WECHAT_RECORD_SERVER http://storylight.wechat.athenamuses.cn/storylight/media/upload.do?fileType=voice
+
+
+taizhi
+echo 3 > /sys/devices/platform/asoc-uart/en_print
+
+upgtool -s 0 MQTT_SERVER mqtt.music-box.cn:1813
+upgtool -s 0 WECHAT_RECORD_SERVER https://wechat.music-box.cn/taizhi/media/upload.do?fileType=voice
+
+
+xiaoyu
+echo 3 > /sys/devices/platform/asoc-uart/en_print
+
+upgtool -s 0 MQTT_SERVER xiaoyu.mqtt.athenamuses.cn:13013
+upgtool -s 0 WECHAT_RECORD_SERVER http://xiaoyu.wechat.athenamuses.cn/xiaoyu/media/upload.do?fileType=voice
+��Ʒid:43142
+
+uitest
+echo 3 > /sys/devices/platform/asoc-uart/en_print
+
+upgtool -s 0 MQTT_SERVER uitest.mqtt.athenamuses.cn:13001
+upgtool -s 0 WECHAT_RECORD_SERVER http://uitest.wechat.athenamuses.cn/uitest/media/upload.do?fileType=voice
+
+babylisten
+echo 3 > /sys/devices/platform/asoc-uart/en_print
+
+upgtool -s 0 MQTT_SERVER babylisten.mqtt.athenamuses.cn:13004
+upgtool -s 0 WECHAT_RECORD_SERVER http://babylisten.wechat.athenamuses.cn/babylisten/media/upload.do?fileType=voice
+
+
+echo 3 > /sys/devices/platform/asoc-uart/en_print
+
+upgtool -s 0 MQTT_SERVER qiyu.mqtt.athenamuses.cn:13007
+upgtool -s 0 WECHAT_RECORD_SERVER http://qiyu.wechat.athenamuses.cn/qiyu/media/upload.do?fileType=voice
+
+orange
+echo 3 > /sys/devices/platform/asoc-uart/en_print
+
+upgtool -s 0 MQTT_SERVER orange.mqtt.athenamuses.cn:1873
+upgtool -s 0 WECHAT_RECORD_SERVER  http://orange.wechat.athenamuses.cn/orange/media/upload.do?fileType=voice
+
+upgtool -s 0 MQTT_SERVER mqtt.music-box.cn:1873
+upgtool -s 0 WECHAT_RECORD_SERVER  http://wechat.music-box.cn/orange/media/upload.do?fileType=voice
+
+
+
+yazai
+echo 3 > /sys/devices/platform/asoc-uart/en_print
+
+upgtool -s 0 MQTT_SERVER yazai.mqtt.athenamuses.cn:12943
+upgtool -s 0 WECHAT_RECORD_SERVER http://yazai.wechat.athenamuses.cn/yazai/media/upload.do?fileType=voice
+��Ʒid��43983
+
+zhipang
+echo 3 > /sys/devices/platform/asoc-uart/en_print
+
+upgtool -s 0 MQTT_SERVER zhipang.mqtt.athenamuses.cn:12823
+upgtool -s 0 WECHAT_RECORD_SERVER zhipang.wechat.athenamuses.cn/storybox/media/upload.do?fileType=voice
+
+upgtool -s 0 MQTT_SERVER zhiling.mqtt.athenamuses.cn:1883
+upgtool -s 0 WECHAT_RECORD_SERVER http://zhiling.wechat.athenamuses.cn/zhiling/media/upload.do?fileType=voice
+
+molb
+echo 3 > /sys/devices/platform/asoc-uart/en_print
+
+upgtool -s 0 MQTT_SERVER molb.mqtt.athenamuses.cn:13824
+upgtool -s 0 WECHAT_RECORD_SERVER http://molb.wechat.athenamuses.cn/molb/media/upload.do?fileType=voice
+
+yiht
+echo 3 > /sys/devices/platform/asoc-uart/en_print
+
+upgtool -s 0 MQTT_SERVER yiht.mqtt.athenamuses.cn:2943
+upgtool -s 0 WECHAT_RECORD_SERVER http://yiht.wechat.athenamuses.cn/yiht/media/upload.do?fileType=voice
+
+
+
+gjlx
+echo 3 > /sys/devices/platform/asoc-uart/en_print
+
+upgtool -s 0 MQTT_SERVER gjlxa.mqtt.athenamuses.cn:1883
+upgtool -s 0 WECHAT_RECORD_SERVER http://gjlxa.wechat.athenamuses.cn/storybox/media/upload.do?fileType=voice
+
+
+ħ����
+echo 3 > /sys/devices/platform/asoc-uart/en_print
+
+upgtool -s 0 MQTT_SERVER molb.mqtt.athenamuses.cn:13824
+upgtool -s 0 WECHAT_RECORD_SERVER http://molb.wechat.athenamuses.cn/molb/media/upload.do?fileType=voice
+
+
+niwawa
+echo 3 > /sys/devices/platform/asoc-uart/en_print
+
+upgtool -s 0 MQTT_SERVER niwawa.mqtt.athenamuses.cn:1803
+upgtool -s 0 WECHAT_RECORD_SERVER http://niwawa.wechat.athenamuses.cn/niwawa/media/upload.do?fileType=voice
+
+zb
+upgtool -s 0 MQTT_SERVER zhiban.mqtt.athenamuses.cn:1893
+upgtool -s 0 WECHAT_RECORD_SERVER http://zhiban.wechat.athenamuses.cn/zhiban/media/upload.do?fileType=voice
+tcp://zhiban.mqtt.athenamuses.cn:1893
+
+shener
+echo 3 > /sys/devices/platform/asoc-uart/en_print
+
+upgtool -s 0 MQTT_SERVER mqtt.shenercloud.com:22186
+upgtool -s 0 WECHAT_RECORD_SERVER http://robe.shenercloud.com/shener/media/upload.do?fileType=voice
+
+
+zhipang
+upgtool -s 0 MQTT_SERVER zhipang.mqtt.athenamuses.cn:12823
+upgtool -s 0 WECHAT_RECORD_SERVER http://zhipang.wechat.athenamuses.cn/zhipang/media/upload.do?fileType=voice
+
+shener
+upgtool -s 0 MQTT_SERVER shener.mqtt.athenamuses.cn:22186
+upgtool -s 0 WECHAT_RECORD_SERVER http://shener.wechat.athenamuses.cn/shener/media/upload.do?fileType=voice
+
+
+zhiban_usa
+upgtool -s 0 MQTT_SERVER shactions.athenamuses.cn:1883
+upgtool -s 0 WECHAT_RECORD_SERVER http://shactions.athenamuses.cn/zhiban_usa/media/upload.do?fileType=voice
+upgtool -g 0 VER   �鿴�汾
+upgtool -s 0 VER "1.1.10.170629"
+
+
+zhiling
+echo 3 > /sys/devices/platform/asoc-uart/en_print
+
+upgtool -s 0 MQTT_SERVER zhiling.mqtt.athenamuses.cn:1883
+upgtool -s 0 WECHAT_RECORD_SERVER http://zhiling.wechat.athenamuses.cn/zhiling/media/upload.do?fileType=voice
+
+yiht
+echo 3 > /sys/devices/platform/asoc-uart/en_print
+
+upgtool -s 0 MQTT_SERVER yiht.mqtt.athenamuses.cn:2943
+upgtool -s 0 WECHAT_RECORD_SERVER http://yiht.wechat.athenamuses.cn/yiht/media/upload.do?fileType=voice
+
+zhiban_usa
+WECHAT_RECORD_SERVER = "http://wechat.athenamuses.cn/zhiban_usa/media/upload.do?fileType=voice";
+MQTT_SERVER = "wechat.athenamuses.cn:1893"
+
+jtx
+upgtool -s 0 MQTT_SERVER jtx.mqtt.athenamuses.cn:2923
+upgtool -s 0 WECHAT_RECORD_SERVER http://jtx.wechat.athenamuses.cn/bear/media/upload.do?fileType=voice
+
+zhiban
+upgtool -s 0 MQTT_SERVER zhiban.mqtt.athenamuses.cn:1893
+upgtool -s 0 WECHAT_RECORD_SERVER http://zhiban.wechat.athenamuses.cn/zhiban/media/upload.do?fileType=voice
+
+
+bbt
+upgtool -s 0 MQTT_SERVER bbt.mqtt.athenamuses.cn:1884
+upgtool -s 0 WECHAT_RECORD_SERVER http://bbt.wechat.athenamuses.cn/bbtbox/media/upload.do?fileType=voice
